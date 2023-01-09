@@ -64,7 +64,12 @@ section {
     border-style: solid;
     border-width: 2px;
 }
-
+.Enlarge-Image {
+    transition: scale 1s;
+}
+.Enlarge-Image:hover {
+scale: 1.25;
+}
 
 footer {
     padding: 20px;
