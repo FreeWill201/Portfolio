@@ -1,5 +1,17 @@
 # Portfolio
+
 Page display's William Hirst's Portfolio and in a clear, concise, and accessible way
+
+#Link
+- file:///Users/williamhirst/Desktop/RU~Code/Class_Challenges/Module_2_Challenge/Portfolio/index.html
+
+#Pictures Of Webpage
+- /Users/williamhirst/Desktop/RU~Code/Class_Challenges/Module_2_Challenge/Portfolio/Assets/images/Screenshot 2023-01-14 at 2.48.56 PM.png
+- /Users/williamhirst/Desktop/RU~Code/Class_Challenges/Module_2_Challenge/Portfolio/Assets/images/Screenshot 2023-01-14 at 2.49.02 PM.png
+- /Users/williamhirst/Desktop/RU~Code/Class_Challenges/Module_2_Challenge/Portfolio/Assets/images/Screenshot 2023-01-14 at 2.52.57 PM.png
+- /Users/williamhirst/Desktop/RU~Code/Class_Challenges/Module_2_Challenge/Portfolio/Assets/images/Screenshot 2023-01-14 at 2.53.17 PM.png
+- /Users/williamhirst/Desktop/RU~Code/Class_Challenges/Module_2_Challenge/Portfolio/Assets/images/Screenshot 2023-01-14 at 2.53.29 PM.png
+
 
 #Description
 

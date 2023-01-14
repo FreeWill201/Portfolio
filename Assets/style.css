@@ -7,6 +7,9 @@ body {
     margin: 0;
 }
 
+/* This helps style the header section in distinct colors while making it spatially
+distinct from any other section */
+
 header {
     padding: 60px;
     text-align: center;
@@ -14,6 +17,8 @@ header {
     color: white;
 }
 
+/* This styles the text section of the navbar making sure it can be clearly seen while
+adjusting to any additions to the webpage as needed */
 nav {
     display: flex;
     background-color: orange;
@@ -41,6 +46,10 @@ section {
     padding: 20px;
 }
 
+/*  This covers all the main sections about work and school history that are
+on the webpage. It makes sure the pictures are centered and the size distribution
+is the same for all items in the class Icons */
+
 .Icons {
     display: flex;
     flex-direction: row;
@@ -53,6 +62,10 @@ section {
     border-width: 2px;
 }
 
+/* This covers only the contact section of the webpage ensuring it is costumized
+differently than the icons divs as it needs a different alignment based off of it's
+unique section on the webpage */
+
 .Contact {
     display: flex;
     flex-direction: row;
@@ -64,11 +77,30 @@ section {
     border-style: solid;
     border-width: 2px;
 }
+
+/* Lines 85-90 ensure the images on the webpage are interactive by enlarging when 
+the user hovers over them and making sure they enlarge at an appropriate rate rather 
+than it instantly happening so the user can understand better what is happening on the
+screen */
 .Enlarge-Image {
     transition: scale 1s;
 }
 .Enlarge-Image:hover {
 scale: 1.25;
+}
+
+.image-placeholder {
+   background-color: red; 
+   display: flex;
+   height: 150px;
+   margin: 5px;
+   width: 100px;
+}
+
+.image-placeholder > h5 {
+    align-self: center;
+    text-align: center;
+    width: 100%;
 }
 
 footer {
@@ -78,6 +110,8 @@ footer {
     color: yellow;
 }
 
+/* Lines 102-112 ensure that no matter the device used or size of the webbrowser on a computer
+the webpage will adjust itself in order to apporpriately fit the screen */
 
 @media screen and (max-width: 992px) {
     header { background: red;  } 
