@@ -3,9 +3,9 @@
 Page display's William Hirst's Portfolio and in a clear, concise, and accessible way
 
 #Link
-- file:///Users/williamhirst/Desktop/RU~Code/Class_Challenges/Module_2_Challenge/Portfolio/index.html
+- https://freewill201.github.io/Portfolio/
 
-#Pictures Of Webpage
+#Pictures Of Webpage found through Repo (Relative Path)
 - Assets/images/Screenshot 2023-01-14 at 2.48.56 PM.png
 - Assets/images/Screenshot 2023-01-14 at 2.49.02 PM.png
 - Assets/images/Screenshot 2023-01-14 at 2.52.57 PM.png
