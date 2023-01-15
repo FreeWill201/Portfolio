@@ -3,14 +3,16 @@
 Page display's William Hirst's Portfolio and in a clear, concise, and accessible way
 
 #Link
+
 - https://freewill201.github.io/Portfolio/
 
-#Pictures Of Webpage found through Repo (Relative Path)
-- Assets/images/Screenshot 2023-01-14 at 2.48.56 PM.png
-- Assets/images/Screenshot 2023-01-14 at 2.49.02 PM.png
-- Assets/images/Screenshot 2023-01-14 at 2.52.57 PM.png
-- Assets/images/Screenshot 2023-01-14 at 2.53.17 PM.png
-- Assets/images/Screenshot 2023-01-14 at 2.53.29 PM.png
+#Pictures Of Webpage 
+
+- ![ Picture Of Top Of Webpage]( /Assets/images/Screenshot%202023-01-14%20at%202.48.56%20PM.png "Top Of Webpage")
+- ![ Picture Of Top Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.49.02%20PM.png "Top Center Of Webpage") 
+- ![ Picture Of Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.52.57%20PM.png "Center Of Webpage") 
+- ![ Picture Of Bottom Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.53.17%20PM.png "Bottom Center Of Webpage") 
+- ![ Picture Of Bottom Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.53.29%20PM.png "Bottom Of Webpage") 
 
 
 #Description
