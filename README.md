@@ -8,11 +8,11 @@ Page display's William Hirst's Portfolio and in a clear, concise, and accessible
 
 #Pictures Of Webpage 
 
-- ![ Picture Of Top Of Webpage]( /Assets/images/Screenshot%202023-01-14%20at%2011.11.39%20PM.png "Top Of Webpage")
-- ![ Picture Of Top Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.11.45%20PM.png "Top Center Of Webpage") 
-- ![ Picture Of Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.11.50%20PM.png "Center Of Webpage") 
-- ![ Picture Of Bottom Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.11.55%20PM.png "Bottom Center Of Webpage") 
-- ![ Picture Of Bottom Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.12.02%20PM.png "Bottom Of Webpage") 
+- ![ Picture Of Top Of Webpage]( /Assets/images/Screenshot%202023-01-14%20at%2011.20.02%20PM.png "Top Of Webpage")
+- ![ Picture Of Top Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.20.14%20PM.png "Top Center Of Webpage") 
+- ![ Picture Of Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.20.28%20PM.png "Center Of Webpage") 
+- ![ Picture Of Bottom Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.20.48%20PM.png "Bottom Center Of Webpage") 
+- ![ Picture Of Bottom Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%2011.21.03%20PM.png "Bottom Of Webpage") 
 
 
 
