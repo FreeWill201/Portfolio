@@ -8,11 +8,12 @@ Page display's William Hirst's Portfolio and in a clear, concise, and accessible
 
 #Pictures Of Webpage 
 
-- ![ Picture Of Top Of Webpage]( /Assets/images/Screenshot%202023-01-14%20at%202.48.56%20PM.png "Top Of Webpage")
-- ![ Picture Of Top Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.49.02%20PM.png "Top Center Of Webpage") 
-- ![ Picture Of Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.52.57%20PM.png "Center Of Webpage") 
-- ![ Picture Of Bottom Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.53.17%20PM.png "Bottom Center Of Webpage") 
-- ![ Picture Of Bottom Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%202.53.29%20PM.png "Bottom Of Webpage") 
+- ![ Picture Of Top Of Webpage]( /Assets/images/Screenshot%202023-01-14%20at%209.58.11%20PM.png "Top Of Webpage")
+- ![ Picture Of Top Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%209.58.22%20PM.png "Top Center Of Webpage") 
+- ![ Picture Of Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%209.59.03%20PM.png "Center Of Webpage 1") 
+- ![ Picture Of Bottom Center Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%209.59.20%20PM.png "Center Of Webpage 2") 
+- ![ Picture Of Bottom Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%209.59.32%20PM.png "Bottom Center Of Webpage") 
+- ![ Picture Of Bottom Of Webpage](/Assets/images/Screenshot%202023-01-14%20at%209.59.41%20PM.png "Bottom Of Webpage")
 
 
 #Description
